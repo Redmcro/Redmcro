@@ -1,26 +1,18 @@
-<h2 align="center">Shine on you crazy diamond~ 👋</h2>
+## 🌟 Shine on you crazy diamond~ 👋
 
-<p align="center">
-  <img src="assets/moon.gif" alt="Dark Side of the Moon" width="300"/>
-</p>
+<img src="assets/moon.gif" alt="Dark Side of the Moon" width="300"/>
 
-<hr/>
+---
 
-<h3 align="center">🎯 MAJOR</h3>
+### 🎯 MAJOR  
+- 🧠 Unity / C#  
+- 🎮 Godot / GDScript  
 
-<p align="center">
-  🧠 Unity / C#<br/>
-  🎮 Godot / GDScript
-</p>
+---
 
-<hr/>
+### 📚 LEARNING  
+- 🐍 Python  
+- 📜 TypeScript  
+- 🧩 C++
 
-<h3 align="center">📚 LEARNING</h3>
-
-<p align="center">
-  🐍 Python<br/>
-  📜 TypeScript<br/>
-  🧩 C++
-</p>
-
-<hr/>
+---
