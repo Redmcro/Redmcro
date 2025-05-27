@@ -4,29 +4,19 @@
 
 ---
 
-### 🎯 MAJOR / LEARNING
+### 🎯 MAJOR
 
-<div style="display: flex; justify-content: space-between; font-size: 0.95em; line-height: 1.6;">
-
-<div>
-
-- 🧠 Unity / C#  
-- 🎮 Godot / GDScript  
-
+<div style="display: flex; gap: 2em; font-size: 1em;">
+  <div>- 🧠 Unity / C#</div>
+  <div>- 🎮 Godot / GDScript</div>
 </div>
 
-<div>
+### 📚 LEARNING
 
-- 🐍 Python  
-- 📜 TypeScript  
-- 🧩 C++
-
-</div>
-
-<div>
-<!-- 空栏可保留平衡布局或后续扩展 -->
-</div>
-
+<div style="display: flex; gap: 2em; font-size: 1em;">
+  <div>- 🐍 Python</div>
+  <div>- 📜 TypeScript</div>
+  <div>- 🧩 C++</div>
 </div>
 
 ---
