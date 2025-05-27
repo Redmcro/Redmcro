@@ -6,19 +6,19 @@
 
 ### 🎯 MAJOR
 
-<p align="left" style="font-size: 16px;">
-  <code style="display: inline-block; width: 160px; font-size: 20px;">- 🧠 Unity / C#</code>
-  <code style="display: inline-block; width: 200px; font-size: 20px;">- 🎮 Godot / GDScript</code>
+<p align="left" style="font-size: 20px;">
+  <code style="display: inline-block; width: 160px; font-size: 20px;"> 🧠 Unity / C#</code>
+  <code style="display: inline-block; width: 200px; font-size: 20px;"> 🎮 Godot / GDScript</code>
 </p>
 
 ---
 
 ### 📚 LEARNING
 
-<p align="left" style="font-size: 16px;">
-  <code style="display: inline-block; width: 160px; font-size: 20px;">- 🐍 Python</code>
-  <code style="display: inline-block; width: 200px; font-size: 20px;">- 📜 TypeScript</code>
-  <code style="display: inline-block; width: 160px; font-size: 20px;">- 🧩 C++</code>
+<p align="left" style="font-size: 20px;">
+  <code style="display: inline-block; width: 160px; font-size: 20px;"> 🐍 Python</code>
+  <code style="display: inline-block; width: 200px; font-size: 20px;"> 📜 TypeScript</code>
+  <code style="display: inline-block; width: 160px; font-size: 20px;"> 🧩 C++</code>
 </p>
 
 ---
