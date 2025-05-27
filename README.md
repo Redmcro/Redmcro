@@ -6,18 +6,13 @@
 
 ### 🎯 MAJOR
 
-<div style="display: flex; gap: 2em; font-size: 1em;">
-  <div>- 🧠 Unity / C#</div>
-  <div>- 🎮 Godot / GDScript</div>
-</div>
+| - 🧠 Unity / C# | - 🎮 Godot / GDScript |
+|----------------|-----------------------|
 
 ### 📚 LEARNING
 
-<div style="display: flex; gap: 2em; font-size: 1em;">
-  <div>- 🐍 Python</div>
-  <div>- 📜 TypeScript</div>
-  <div>- 🧩 C++</div>
-</div>
+| - 🐍 Python | - 📜 TypeScript | - 🧩 C++ |
+|-------------|----------------|----------|
 
 ---
 
