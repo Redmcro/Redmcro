@@ -7,16 +7,18 @@
 ### 🎯 MAJOR
 
 <p align="left" style="font-size: 16px;">
-  <code style="display: inline-block; width: 160px; font-size: 16px;">- 🧠 Unity / C#</code>
-  <code style="display: inline-block; width: 200px; font-size: 16px;">- 🎮 Godot / GDScript</code>
+  <code style="display: inline-block; width: 160px; font-size: 20px;">- 🧠 Unity / C#</code>
+  <code style="display: inline-block; width: 200px; font-size: 20px;">- 🎮 Godot / GDScript</code>
 </p>
+
+---
 
 ### 📚 LEARNING
 
 <p align="left" style="font-size: 16px;">
-  <code style="display: inline-block; width: 160px; font-size: 16px;">- 🐍 Python</code>
-  <code style="display: inline-block; width: 200px; font-size: 16px;">- 📜 TypeScript</code>
-  <code style="display: inline-block; width: 160px; font-size: 16px;">- 🧩 C++</code>
+  <code style="display: inline-block; width: 160px; font-size: 20px;">- 🐍 Python</code>
+  <code style="display: inline-block; width: 200px; font-size: 20px;">- 📜 TypeScript</code>
+  <code style="display: inline-block; width: 160px; font-size: 20px;">- 🧩 C++</code>
 </p>
 
 ---
