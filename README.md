@@ -6,22 +6,18 @@
 
 ### 🎯 MAJOR
 
-<table>
-<tr>
-<td>- 🧠 Unity / C#</td>
-<td>- 🎮 Godot / GDScript</td>
-</tr>
-</table>
+<ul>
+  <li style="display: inline-block; width: 200px;">- 🧠 Unity / C#</li>
+  <li style="display: inline-block; width: 200px;">- 🎮 Godot / GDScript</li>
+</ul>
 
 ### 📚 LEARNING
 
-<table>
-<tr>
-<td>- 🐍 Python</td>
-<td>- 📜 TypeScript</td>
-<td>- 🧩 C++</td>
-</tr>
-</table>
+<ul>
+  <li style="display: inline-block; width: 150px;">- 🐍 Python</li>
+  <li style="display: inline-block; width: 150px;">- 📜 TypeScript</li>
+  <li style="display: inline-block; width: 150px;">- 🧩 C++</li>
+</ul>
 
 ---
 
