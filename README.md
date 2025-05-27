@@ -4,16 +4,21 @@
 
 ---
 
-### 🎯 MAJOR  
-- 🧠 Unity / C#  
-- 🎮 Godot / GDScript  
+<div style="display: flex; justify-content: space-between; text-align: center; font-size: 1.1em;">
 
----
+<div>
+  <h3>🧠 Unity<br/>C#</h3>
+</div>
 
-### 📚 LEARNING  
-- 🐍 Python  
-- 📜 TypeScript  
-- 🧩 C++
+<div>
+  <h3>🎮 Godot<br/>GDScript</h3>
+</div>
+
+<div>
+  <h3>📚 Learning<br/>🐍 Python · 📜 TypeScript · 🧩 C++</h3>
+</div>
+
+</div>
 
 ---
 
