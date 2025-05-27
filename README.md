@@ -4,20 +4,18 @@
 
 ---
 
-### 🎯 MAJOR
+### 🎯 MAJOR & LEARNING
 
-<ul>
-  <li style="display: inline-block; width: 200px;">- 🧠 Unity / C#</li>
-  <li style="display: inline-block; width: 200px;">- 🎮 Godot / GDScript</li>
-</ul>
+<p align="left">
+  <code style="display: inline-block; width: 200px;">- 🧠 Unity / C#</code>
+  <code style="display: inline-block; width: 200px;">- 🎮 Godot / GDScript</code>
+</p>
 
-### 📚 LEARNING
-
-<ul>
-  <li style="display: inline-block; width: 150px;">- 🐍 Python</li>
-  <li style="display: inline-block; width: 150px;">- 📜 TypeScript</li>
-  <li style="display: inline-block; width: 150px;">- 🧩 C++</li>
-</ul>
+<p align="left">
+  <code style="display: inline-block; width: 200px;">- 🐍 Python</code>
+  <code style="display: inline-block; width: 200px;">- 📜 TypeScript</code>
+  <code style="display: inline-block; width: 200px;">- 🧩 C++</code>
+</p>
 
 ---
 
