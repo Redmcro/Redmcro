@@ -6,13 +6,22 @@
 
 ### 🎯 MAJOR
 
-| - 🧠 Unity / C# | - 🎮 Godot / GDScript |
-|----------------|-----------------------|
+<table>
+<tr>
+<td>- 🧠 Unity / C#</td>
+<td>- 🎮 Godot / GDScript</td>
+</tr>
+</table>
 
 ### 📚 LEARNING
 
-| - 🐍 Python | - 📜 TypeScript | - 🧩 C++ |
-|-------------|----------------|----------|
+<table>
+<tr>
+<td>- 🐍 Python</td>
+<td>- 📜 TypeScript</td>
+<td>- 🧩 C++</td>
+</tr>
+</table>
 
 ---
 
