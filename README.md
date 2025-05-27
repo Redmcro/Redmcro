@@ -4,18 +4,27 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between; text-align: center; font-size: 1.1em;">
+### 🎯 MAJOR / LEARNING
+
+<div style="display: flex; justify-content: space-between; font-size: 0.95em; line-height: 1.6;">
 
 <div>
-  <h3>🧠 Unity<br/>C#</h3>
+
+- 🧠 Unity / C#  
+- 🎮 Godot / GDScript  
+
 </div>
 
 <div>
-  <h3>🎮 Godot<br/>GDScript</h3>
+
+- 🐍 Python  
+- 📜 TypeScript  
+- 🧩 C++
+
 </div>
 
 <div>
-  <h3>📚 Learning<br/>🐍 Python · 📜 TypeScript · 🧩 C++</h3>
+<!-- 空栏可保留平衡布局或后续扩展 -->
 </div>
 
 </div>
