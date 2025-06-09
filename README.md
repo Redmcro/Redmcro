@@ -1,4 +1,4 @@
-## 🌟 Shine on you crazy diamond~ 👋
+## See you on the dark side of the moon🌑
 
 <img src="assets/moon.gif" alt="Dark Side of the Moon" width="300"/>
 
