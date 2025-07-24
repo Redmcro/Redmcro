@@ -1,6 +1,6 @@
 ## See you on the dark side of the moon🌑
 
-<img src="assets/moon.gif" alt="Dark Side of the Moon" width="300"/>
+<img src="assets/moon.gif" alt="The Dark Side of the Moon" width="300"/>
 
 ---
 
